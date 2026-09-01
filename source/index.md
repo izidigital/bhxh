@@ -4,7 +4,8 @@ date: 2026-08-31
 layout: page
 ---
 
-> Xem thêm: [Những câu hỏi thường gặp về BHXH](/bhxh/2026/08/31/nhung-cau-hoi-thuong-gap-ve-bhxh/)
+> Xem thêm: [Những câu hỏi thường gặp về BHXH](/bhxh/2026/08/31/nhung-cau-hoi-thuong-gap-ve-bhxh/)  
+> Xem thêm: [Thu nhập không ổn định thì đóng bảo hiểm xã hội thế nào?](/bhxh/2026/09/01/thu-nhap-khong-on-dinh-thi-dong-bao-hiem-xa-hoi-the-nao/)
 
 ## Mục tiêu của công ty
 
